@@ -1,6 +1,10 @@
 ### Hi there 👋
-
+🔭 I’m currently working on PiData Bilişim Teknolojileri A.Ş.
+📫 How to reach me: cobanyasin1998@gmail.com
 <img src="https://github-readme-stats.vercel.app/api?username=cobanyasin1998&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+
+
 
 
 <!--
