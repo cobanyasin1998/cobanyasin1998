@@ -2,7 +2,7 @@
 <h3 align="center">Junior Software Developer</h3>
 
 
-- 📫 How to reach me **cobanyasin1998@outlook.com**
+- 📫 How to reach me **cobanyasin1998@gmail.com**
 
 
 
