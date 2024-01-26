@@ -19,8 +19,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cobanyasin1998&show_icons=true&locale=en" alt="cobanyasin1998" /></p>
 <br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cobanyasin1998&theme=darkhub" alt="cobanyasin1998" /></a> </p>
-
-
-## Spotify
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31i7qrd3jo7rxgtihtgmazfqxpkq&count=1)
